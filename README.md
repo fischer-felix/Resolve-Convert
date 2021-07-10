@@ -18,4 +18,5 @@ sudo dnf install ffmpeg
 ```
 
 ## Usage
-Simply download the script, and execute it on the command line specifying the video file you want to convert.
+Simply download the script, and execute it on the command line specifying the video file you want to convert.  
+You may also want to add the path to the script as an alias in your .zshrc or .bashrc for ease of use.
